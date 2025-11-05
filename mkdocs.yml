@@ -1,0 +1,6 @@
+site_name: Mi Proyecto MkDocs
+theme:
+  name: material
+  language: es
+nav:
+  - Inicio: index.md
