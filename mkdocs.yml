@@ -6,6 +6,7 @@ theme:
 nav:
   - Inicio: index.md
   - 1. Conceptos sobre electricidad: Conceptos_electricidad.md
+  - 2. Componentes electrónicos: Componentes_electronicos.md
 
 markdown_extensions:
   - admonition
